@@ -35,6 +35,8 @@ Here, the original signal and demodulated signal will not be exact beacause of n
 + [Nancy Radadia](https://github.com/nancyradadia)
 + [Dhatri Kapuriya](https://github.com/dhatrikapuriya)
 + [Hardi Kadia](https://github.com/hardi15)
++ [Suhanee Patel](https://github.com/sp2605)
+
 
 
 
